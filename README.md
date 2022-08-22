@@ -1,5 +1,5 @@
 -------------------------------------------------------------
-   Rata     Default            Rata Rata
+   Rata     Default            Rata Ratah
   Tengah    Aligned           Kanan Kiri
 ----------- ------- --------------- -------------------------
  Pertama    halo               12.0 Contoh row yang lebih
